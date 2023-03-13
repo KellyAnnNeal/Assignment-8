@@ -1,0 +1,53 @@
+---
+title: "Some Things I Learned This Quarter"
+subtitle: "FISH 549"
+author: "Kelly Neal<br>she/her pronouns<br>kaneal@uw.edu"
+date: "March 10th, 2023"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+
+## About me | Personal
+
+- California born and raised
+
+- love most any good food (am not picky), but especially love American breakfast    foods, Thai, dim sum, and pho
+
+-love all animals, but in particular: cheetahs were my childhood favorite, horses   for fun recreational opportunities, and salmon for research on their dramatic     life cycle
+
+## About me | Academic
+
+- University of California, Davis
+
+
+- Major: Environmental Science and Management
+
+    * Minor: Geographic Information Systems
+    
+    
+# Data Science
+
+
+## Course Topics | 3 Things I enjoyed Learning About
+
+1. How to use GitHub for organizing my own work materials, collaboration, and        sharing outputs to the greater data science community
+
+2. Working with databases such as PostgreSQL
+
+3. Using R Markdown for a variety of uses including, generating documents,           presentations, and websites
+
+## Course Topics | 3 Things I'd Like to Learn More About
+
+1. More examples of different types of Shiny App Interfaces
+
+2. Using the Leaflet package for interactive maps on websites
+
+3. Improve my ability to get help on R issues through refining the questions I ask    and the reprex I use to get help
+
+## {data-background=DSC_4656.jpg data-background-size=cover}
